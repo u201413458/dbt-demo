@@ -7,4 +7,4 @@ With stg_customers AS (
    FROM raw.customer
 )
 
-Select * from stg_customers
+SELECT * from stg_customers
